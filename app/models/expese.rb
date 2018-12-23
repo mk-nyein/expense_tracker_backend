@@ -1,0 +1,2 @@
+class Expese < ApplicationRecord
+end
