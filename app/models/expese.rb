@@ -1,2 +1,0 @@
-class Expese < ApplicationRecord
-end
